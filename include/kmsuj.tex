@@ -1,0 +1,57 @@
+\usepackage{fancyhdr}
+\chead{
+  \normalfont
+  \noindent
+  \begin{minipage}[c]{.2\linewidth}
+    \includegraphics[width=\linewidth]{images/logo}
+  \end{minipage}
+  \begin{minipage}[c]{.7\linewidth}
+    \begin{center}
+      \vspace{1em}
+      Koło~Matematyków~Studentów Uniwersytetu~Jagiellońskiego\\
+      im.~prof.~Stanisława~Zaremby\\
+      \scriptsize{
+      Instytut~Matematyki~UJ\\
+      ul.~Łojasiewicza~6/1008, 30-348~Kraków\\
+      http://kmsuj.im.uj.edu.pl e-mail: kmsuj7@gmail.com
+      }
+    \end{center}
+  \end{minipage}
+  \vspace{1em}
+}
+\lhead{}
+\rhead{}
+
+\pagestyle{fancy}
+
+\renewcommand{\titlepage}{
+  \maketitle
+
+  \begin{center}
+    \includegraphics[width=.5\textwidth]{images/logo}
+  \end{center}
+
+  \thispagestyle{empty}
+
+  \clearpage
+}
+
+\let\defaultmaketitle\maketitle
+
+\renewcommand\maketitle{
+  \defaultmaketitle
+
+  \begin{center}
+    \includegraphics[width=.5\textwidth]{images/logo}
+  \end{center}
+
+  \thispagestyle{empty}
+
+  \clearpage
+}
+
+\addtokomafont{disposition}{\rmfamily}
+
+\makeatletter
+\@ifclasswith{scrartcl}{contract}{\renewcommand\thesection{\S~\arabic{section}}}{}
+\makeatother
