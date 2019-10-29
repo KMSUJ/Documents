@@ -5,11 +5,11 @@ lang: pl-PL
 classoption: contract
 ...
 
-# Nazwa i siedziba stowarzyszenia
+# Nazwa i siedziba organizacji
 
-1. Stowarzyszenie nosi nazwę: "Koło Matematyków Studentów Uniwersytetu Jagiellońskiego imienia profesora Stanisława Zaremby". Dalej jest zwane "Kołem".
+1. Organizacja nosi nazwę: "Koło Matematyków Studentów Uniwersytetu Jagiellońskiego imienia profesora Stanisława Zaremby". Dalej jest zwana "Kołem".
 
-2. Koło jest stowarzyszeniem studenckim; pozostaje pod opieką sprawowaną przez Opiekuna w osobie jednego z pracowników naukowych Instytutu Matematyki UJ.
+2. Koło jest organizacją studencką; pozostaje pod opieką sprawowaną przez Opiekuna w osobie jednego z pracowników naukowych Instytutu Matematyki UJ.
 
 3. Siedzibą Koła jest miasto Kraków.
 
@@ -41,29 +41,31 @@ classoption: contract
 
     d) prowadzenie biblioteki i czytelni,
 
-    e) współpracę ze stowarzyszeniami o pokrewnych zadaniach i celach,
+    e) współpracę z organizacjami o pokrewnych zadaniach i celach,
 
     f) występowanie na zewnątrz w sprawach związanych z działalnością Koła i sprawami członków.
 
 # Członkowie Koła
 
-1. Członkowie Koła dzielą się na: zwyczajnych, wspierających i honorowych.
+1. Członkowie Koła dzielą się na: zwyczajnych i honorowych.
 
-2. Członkiem zwyczajnym może zostać jedynie student Uniwersytetu Jagiellońskiego, który uczestniczy w zajęciach Wydziału Matematyki i Informatyki UJ.
+2. Członkiem zwyczajnym może zostać jedynie student Uniwersytetu Jagiellońskiego.
 
-3. Przyjęcie w poczet członków zwyczajnych lub wspierających następuje na podstawie zgłoszenia przyjętego przez Zarząd po wpłaceniu składki członkowskiej. Zarząd może odmówić przyjęcia kandydata, uzasadniając decyzję na piśmie. Od tej decyzji kandydatowi przysługuje prawo odwołania do Walnego Zebrania.
+3. Przyjęcie w poczet członków zwyczajnych następuje na podstawie zgłoszenia przyjętego przez Zarząd po wpłaceniu składki członkowskiej. Zarząd może odmówić przyjęcia kandydata, uzasadniając decyzję na piśmie. Od tej decyzji kandydatowi przysługuje prawo odwołania do Walnego Zebrania.
 
-4. Godność członka honorowego nadaje Walne Zebranie w głosowaniu tajnym. Prawo postawienia wniosku o nadanie członkostwa honorowego przysługuje Zarządowi oraz grupie co najmniej 15 członków Koła. W tym celu zgłaszają oni na piśmie swój zamiar Zarządowi nie później niż 5 dni (nie licząc dni wolnych od zajęć dydaktycznych na studiach dziennych na UJ, dalej nazywanych dniami wolnymi) przed terminem Walnego Zebrania.
+4. Godność członka honorowego za szczególne osiągnięcia na rzecz Koła nadaje Walne Zebranie w głosowaniu tajnym. Prawo postawienia wniosku o nadanie członkostwa honorowego przysługuje Zarządowi oraz grupie co najmniej 15 członków Koła. W tym celu zgłaszają oni na piśmie swój zamiar Zarządowi nie później niż 5 dni (nie licząc dni wolnych od zajęć dydaktycznych na studiach dziennych na UJ, dalej nazywanych dniami wolnymi) przed terminem Walnego Zebrania.
 
-5. Członkostwo ustaje w wyniku:
+5. Członkostwo zwyczajne ustaje w wyniku:
 
     a) przedłożenia Zarządowi pisemnego oświadczenia woli wystąpienia z Koła,
 
-    b) braku uczestnictwa w zajęciach studiów licencjackich lub magisterskich na Wydziale Matematyki i Informatyki UJ przez okres jednego roku przez członka zwyczajnego,
+    b) utraty statusu studenta Uniwersytetu Jagiellońskiego,
 
-    c) nieopłacenia składki członkowskiej przez członka zwyczajnego lub wspierającego,
+    c) śmierci,
 
-    d) wykluczenia z Koła decyzją Walnego Zebrania.
+    d) nieopłacenia składki członkowskiej,
+
+    e) wykluczenia z Koła decyzją Walnego Zebrania.
 
 6. Członkowie Koła mają prawo do:
 
@@ -97,9 +99,9 @@ classoption: contract
 
     a) uchwalania Statutu, regulaminów i wszelkich innych regulacji ogólnych Koła,
 
-    b) wyboru co najwyżej siedmiu członków Zarządu,
+    b) wyboru członków Zarządu,
 
-    c) wyboru Komisji Rewizyjnej.
+    c) wyboru członków Komisji Rewizyjnej.
 
 2. Walne Zebranie podejmuje uchwały większością zwykłą. Jedynie zmiana Statutu i rozwiązanie Koła wymagają ponad 2/3 głosów w obecności ponad połowy członków zwyczajnych.
 
@@ -123,7 +125,7 @@ classoption: contract
 
 1. Zarząd ma obowiązek zwołać Nadzwyczajne Walne Zebranie na wniosek Komisji Rewizyjnej lub co najmniej 1/4 członków zwyczajnych. Walne Zebranie należy ogłosić najpóźniej 5 dni (nie licząc dni wolnych) od daty otrzymania wniosku. Jeżeli Zarząd nie ogłosi Walnego Zebrania w terminie, mogą to zrobić wnioskujący.
 
-2. Zarząd stanowi organ administracyjny i wykonawczy Koła; rozporządza jego majątkiem i finansami.
+2. Zarząd stanowi organ administracyjny i wykonawczy Koła.
 
 3. Na czele Zarządu stoi prezes Koła; odpowiada on za całość prac Zarządu. W zarządzie wyróżniamy dodatkowo funkcje: wiceprezesa, sekretarza, skarbnika i bibliotekarza. Funkcje mogą pełnić jedynie członkowie Zarządu, wybrani przez Walne Zebranie.
 
