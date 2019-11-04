@@ -10,29 +10,29 @@ Wybór Zarządu oraz Komisji Rewizyjnej dokonywany jest podczas Walnego Zebrania
 
 Statut Koła określa członków z czynnym i biernym prawem wyborczym, poza następującymi przypadkami:
 
-a) członek ze stażem mniejszym niż pół roku nie posiada biernego prawa wyborczego do Zarządu Koła. To prawo może być przyznane człownkowi za rekomendacją przynajmniej trojga członków z takim prawem.
++ członek ze stażem mniejszym niż pół roku nie posiada biernego prawa wyborczego do Zarządu Koła. To prawo może być przyznane członkowi za rekomendacją przynajmniej trojga członków z takim prawem.
 
-b) członek ze stażem mniejszym niż rok nie posiada biernego prawa wyborczego do Komisji Rewizyjnej.
++ członek ze stażem mniejszym niż rok nie posiada biernego prawa wyborczego do Komisji Rewizyjnej.
 
-c) członek ustępującej Komisji Rewizyjnej nie posiada biernego prawa wyborczego do Zarządu Koła.
++ członek ustępującej Komisji Rewizyjnej nie posiada biernego prawa wyborczego do Zarządu Koła.
 
-Głosowanie jest tajne i odbywa się pod nadzorem Komisji Skrutacyjnej składającej się trojga członków Koła, którzy nie posiadają czynnego ani biernego prawa wyborczego. Wyboru Komisji Skrutacyjnej dokonuje Walne Zebranie głosowaniem większościowym jawnym pod nadzorem prowadzącego Zebranie.
+Głosowanie jest tajne i odbywa się pod nadzorem Komisji Skrutacyjnej składającej się trojga członków Koła, którzy nie posiadają czynnego ani biernego prawa wyborczego. W wypadku braku takich członków, komisja może zostać wybrana spośród pozostałych członków. Wyboru Komisji Skrutacyjnej dokonuje Walne Zebranie głosowaniem większościowym jawnym pod nadzorem prowadzącego Zebranie.
 
 # Nominacje
 
-Wyróżnia się siedem stanowisk pod nominację: Prezes, Wiceprezes, Skarbnik, Bibliotekarz, Wolny Członek, Komisja Rewizyjna. Wszystkie z wyjątkiem ostatniego składają się na Zarząd. Na każde stanowisko może kandydować dowolna liczba członków, każdy członek może kandydować na nie więcej niż trzy stanowiska z następującymi wyjątkami:
+Wyróżnia się siedem stanowisk pod nominację: Prezes, Wiceprezes, Sekretarz, Skarbnik, Bibliotekarz, Wolny Członek, Komisja Rewizyjna. Wszystkie z wyjątkiem ostatniego składają się na Zarząd. Na każde stanowisko może kandydować dowolna liczba członków, każdy członek może kandydować na nie więcej niż trzy stanowiska z następującymi wyjątkami:
 
-a) każdy członek kandydujący do Zarządu automatycznie kandyduje również na Wolnego Członka.
++ każdy członek kandydujący do Zarządu automatycznie kandyduje również na Wolnego Członka.
 
-b) stanowisko Wolnego Członka nie jest wliczane do limitu trzech stanowisk.
++ stanowisko Wolnego Członka nie jest wliczane do limitu trzech stanowisk.
 
-c) członek kandydujący do Komisji Rewizyjnej nie może kandydować do Zarządu.
++ członek kandydujący do Komisji Rewizyjnej nie może kandydować do Zarządu.
 
-W okresie na tydzień przed Walnym Zebraniem do dwunastu godzin przed pierwszym terminem Walnego Zebrania każdy członek Koła z biernym prawem wyborczym może zgłosić swoją kandydaturę na wybrane stanowiska do urzędującego Zarządu lub Komisji Rewizyjnej. Oba organy mają obowiązek zanotować takie zgłoszenie.
+W okresie na tydzień przed Walnym Zebraniem do dwunastu godzin przed pierwszym terminem Walnego Zebrania każdy członek Koła z biernym prawem wyborczym może zgłosić swoją kandydaturę na wybrane stanowiska do urzędującego Zarządu lub Komisji Rewizyjnej. Oba organy mają obowiązek zanotować takie zgłoszenie. Pełna lista kandydatów powinna zostać opublikowana przynajmniej na osiem godzin przed rozpoczęciem Walnego Zebrania.
 
 # Głosowanie
 
-Rozróżnia się trzy fazy wyborów: wybór Prezesa, wybór Zarządu, oraz wybór Komisji Rewizyjnej. Głosowanie dla każdej z faz odbywa się jednocześnie.
+Rozróżnia się trzy fazy wyborów: wybór Prezesa, wybór Zarządu oraz wybór Komisji Rewizyjnej. Głosowanie dla każdej z faz odbywa się jednocześnie.
 
 ## Wybór Prezesa
 
@@ -40,15 +40,15 @@ Głosowanie na stanowisko Prezesa odbywa się metodą Pojedynczego Głosu Przeka
 
 ## Wybór Zarządu
 
-Głosowanie na każde pozostałe stanowisko w Zarządzie odbywa się metodą Pojedynczego Głosu Przekazywanego z trzema wakatami. Spośród kandydatów wyłonionych w tym głosowaniu, nominowany Prezes koła ustanawia po jednym kandydacie na stanowiska Wiceprezesa, Skarbnika, oraz Bibliotekarza. Spośród kandydatów wyłonionych na stanowisko Wolnego Członka oraz kandydatów wyłonionych na pozostałe stanowiska w Zarządzie ale nie wybranych na to stanowisko Prezes ustanawia co najwyżej troje kandydatów na stanowiska Wolnego Członka.
+Głosowanie na każde pozostałe stanowisko w Zarządzie odbywa się metodą Pojedynczego Głosu Przekazywanego z trzema wakatami. Spośród kandydatów wyłonionych w tym głosowaniu, nominowany Prezes koła ustanawia po jednym kandydacie na stanowiska Wiceprezesa, Skarbnika, Sekretarza oraz Bibliotekarza. Spośród kandydatów wyłonionych na stanowisko Wolnego Członka oraz kandydatów wyłonionych na pozostałe stanowiska w Zarządzie ale nie wybranych na to stanowisko Prezes ustanawia co najwyżej troje kandydatów na stanowiska Wolnego Członka.
 
 ## Wybór Komisji Rewizyjnej
 
-Głosowanie na stanowiska w Komisji Rewizyjnej odbywa się metodą Pojedynczego Głosu Przekazywanego z dwoma wakatami. Kandydaci wyłonienie w tym głosowaniu są ustanawiani na stanowiska Komisji Rewizyjnej.
+Głosowanie na stanowiska w Komisji Rewizyjnej odbywa się metodą Pojedynczego Głosu Przekazywanego z trzema wakatami. Kandydaci wyłonieni w tym głosowaniu są ustanawiani na stanowiska Komisji Rewizyjnej.
 
 # Postanowienia Końcowe
 
-W przypadku, gdy niniejsza procedura nie wyłoni co najmniej czteroosobowego Zarządu i dwuosobowej Komisji Rewizyjnej, Walne Zebranie powinno podjąć uchwałę w sprawie konsekwencji tego faktu. W kwestiach spornych decyzję podejmuje Walne Zebranie.
+W przypadku, gdy niniejsza procedura nie wyłoni co najmniej pięcio osobowego Zarządu i trzyosobowej Komisji Rewizyjnej, Walne Zebranie powinno podjąć uchwałę w sprawie konsekwencji tego faktu. W kwestiach spornych decyzję podejmuje Walne Zebranie.
 
 W uzasadnionych przypadkach (o tym czy przypadek jest uzasadniony decyduje ustępująca Komisja Rewizyjna), Walne Zebranie może zdecydować o zrobieniu wyjątku od każdego z powyższych postanowień za zgodą swoją oraz przynajmniej połowy członków zwyczajnych Koła obecnych na Walnym Zebraniu.
 
@@ -80,21 +80,22 @@ Kwota wyborcza to liczba głosów potrzebna kandydatowi na zajęcie jednego z wa
 
 Kwota wyborcza jest ustalana w trakcie każdych wyborów. Jest ona równa ilorazowi liczby ważnych głosów i liczby dostępnych wakatów powiększonej o jeden.
 
+```
 Kwota Wyborcza = Ważne Głosy / (Wakaty + 1)
-
 Nadmiar Głosów = Otrzymane Głosy - Kwota Wyborcza
+```
 
 ## Skrutacja głosów
 
 ### Faza Pierwsza
 
-W pierwszej fazie skrutacji karty wyborców zostają policzone. Następnie odrzuca się głosy nieważne i ustala liczbę ważnych głosów. Ostatecznie oblicza się kwotę wyborczą dla ustalonej wcześniej liczby wakatów. Kwota powinna być ustalona do dwóch miejsc po przecinku, jeśli w wyniku nie otrzymano liczby całkowitej, należy wziąć cechę z kwoty i dodać do niej 0,01. Następnie należy posortować karty wyborców wedle ich pierwszych preferencji oraz policzyć głosy oddane na każdego kandydata.
+W pierwszej fazie skrutacji karty wyborców zostają policzone. Następnie odrzuca się głosy nieważne i ustala liczbę ważnych głosów. Ostatecznie oblicza się kwotę wyborczą dla ustalonej wcześniej liczby wakatów. Kwota powinna być ustalona do dwóch miejsc po przecinku, jeśli w wyniku nie otrzymano liczby całkowitej, należy wziąć podłogę z kwoty i dodać do niej 0,01. Następnie należy posortować karty wyborców wedle ich pierwszych preferencji oraz policzyć głosy oddane na każdego kandydata.
 
 Rozważając kandydatów w malejącej kolejności wartości ich głosów, należy przyznać kolejne wakaty kandydatom, których wartość głosów jest nie mniejsza niż jedna z poniższych wartości:
 
-a) kwota wyborcza.
++ kwota wyborcza.
 
-b) wartość aktywnych głosów podzielona przez liczbę nieprzydzielonych wakatów powiększoną o jeden.
++ wartość aktywnych głosów podzielona przez liczbę nieprzydzielonych wakatów powiększoną o jeden.
 
 ### Fazy Kolejne
 
@@ -102,23 +103,23 @@ Każda kolejna faza skrutacji będzie zawierała przekazanie nadmiarowych głos�
 
 1. Jeśli przynajmniej jeden z kandydatów posiada nadmiar głosów, największy z nadmiarów powinien teraz zostać przekazany. Jednakże przekazanie nadmiarów zostaje odroczone do kolejnej fazy kiedy ich suma nie przekracza przynajmniej jednej z następujących liczb:
 
-    a) różnicy pomiędzy liczbą głosów otrzymanych przez dwoje kandydatów z najmniejszą liczbą głosów.
+    + różnicy pomiędzy liczbą głosów otrzymanych przez dwoje kandydatów z najmniejszą liczbą głosów.
 
-    b) różnicy pomiędzy sumą liczby głosów dwóch lub więcej kandydatów którzy mogliby zostać odrzuceni w kroku 2. a liczbą głosów następnego nad nimi kandydata.
+    + różnicy pomiędzy sumą liczby głosów dwóch lub więcej kandydatów którzy mogliby zostać odrzuceni w kroku 2. a liczbą głosów następnego nad nimi kandydata.
 
     Jeśli jeden lub więcej kandydat posiada nadmiar który nie został odroczony, należy go przekazać. Jeśli nadmiary dwóch lub więcej kandydatów są równe i mają oni największy nadmiar, należy przekazać nadmiar kandydata który posiadał najwięcej głosów w pierwszej fazie skrutacji lub w najwcześniejszym punkcie skrutacji, po przekazaniu kart wyborcy, kiedy ich wartość głosów była różna. Jeśli wartość głosów tych kandydatów była równa w każdym momencie, pierwszy nadmiar zostaje wybrany losowo.
 
-    Przekazanie nadmiaru stanowi fazę skrutacji. Szczegóły przekazania są opisane w sekcji ‘Przekazanie Nadmiarów’. Jeśli po zakończeniu przekazania wciąż pozostają jakieś nieprzekazane nadmiary oraz nieprzydzielone wakaty, należy kontynuować od punktu 1.
+    Przekazanie nadmiaru stanowi fazę skrutacji. Szczegóły przekazania są opisane w sekcji *Przekazanie Nadmiarów*. Jeśli po zakończeniu przekazania wciąż pozostają jakieś nieprzekazane nadmiary oraz nieprzydzielone wakaty, należy kontynuować od punktu 1.
 
 2. Jeśli po przekazaniu wszystkich nadmiarów jeden lub więcej wakat pozostaje nieprzydzielony, kandydat lub kandydaci z najmniejszą liczbą głosów muszą zostać odrzuceni. Należy odrzucić największą możliwą liczbę kandydatów pod następującymi warunkami:
 
-    a) liczba nieodrzuconych kandydatów jest nie mniejsza niż liczba nieprzydzielonych wakatów.
+    + liczba nieodrzuconych kandydatów jest nie mniejsza niż liczba nieprzydzielonych wakatów.
 
-    b) suma liczb głosów odrzucanych kandydatów razem z odroczonymi nadmiarami nie przekracza liczby głosów kolejnego nad nimi kandydata.
+    + suma liczb głosów odrzucanych kandydatów razem z odroczonymi nadmiarami nie przekracza liczby głosów kolejnego nad nimi kandydata.
 
     Jeśli liczby głosów dwóch lub więcej kandydatów są równe i mają oni najmniej głosów, należy odrzucić kandydata który posiadał najmniej głosów w pierwszej fazie skrutacji lub w najwcześniejszym punkcie skrutacji, po przekazaniu kart wyborcy, kiedy ich wartość głosów była różna. Jeśli wartość głosów tych kandydatów była równa w każdym momencie, odrzucany kandydat zostaje wybrany losowo.
 
-    Odrzucenie kandydatów stanowi fazę skrutacji. Szczegóły odrzucania są opisane w sekcji ‘Odrzucenie Kandydatów’. Jeśli po zakończeniu odrzucenia wciąż pozostają jakieś nieprzekazane nadmiary oraz nieprzydzielone wakaty, należy kontynuować od punktu 1. W przeciwnym wypadku należy kontynuować od punktu 2. w celu odrzucenia kolejnych kandydatów.
+    Odrzucenie kandydatów stanowi fazę skrutacji. Szczegóły odrzucania są opisane w sekcji *Odrzucenie Kandydatów*. Jeśli po zakończeniu odrzucenia wciąż pozostają jakieś nieprzekazane nadmiary oraz nieprzydzielone wakaty, należy kontynuować od punktu 1. W przeciwnym wypadku należy kontynuować od punktu 2. w celu odrzucenia kolejnych kandydatów.
 
 ### Przekazanie Nadmiarów
 
@@ -130,9 +131,9 @@ Na każdej karcie należy zapisać jej przekazywalną wartość. Jeśli liczba p
 
 Rozważając kandydatów w malejącej kolejności wartości ich głosów, należy przyznać kolejne wakaty kandydatom, których wartość głosów jest nie mniejsza niż jedna z poniższych wartości:
 
-a) kwota wyborcza.
++ kwota wyborcza.
 
-b) wartość aktywnych głosów podzielona przez liczbę nieprzydzielonych wakatów powiększoną o jeden.
++ wartość aktywnych głosów podzielona przez liczbę nieprzydzielonych wakatów powiększoną o jeden.
 
 ### Odrzucenie Kandydatów
 
@@ -140,9 +141,9 @@ Należy zebrać razem wszystkie karty kandydatów do odrzucenia oraz posortować
 
 Rozważając kandydatów w malejącej kolejności wartości ich głosów, należy przyznać kolejne wakaty kandydatom, których wartość głosów jest nie mniejsza niż jedna z poniższych wartości:
 
-a) kwota wyborcza.
++ kwota wyborcza.
 
-b) wartość aktywnych głosów podzielona przez liczbę nieprzydzielonych wakatów powiększoną o jeden.
++ wartość aktywnych głosów podzielona przez liczbę nieprzydzielonych wakatów powiększoną o jeden.
 
 ### Zakończenie Skrutacji
 
