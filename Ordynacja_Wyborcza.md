@@ -1,6 +1,6 @@
 ---
 title: Ordynacja Wyborcza do Władz Koła Matematyków Studentów Uniwersytetu Jagiellońskiego im.\ prof.\ Stanisława Zaremby
-date: Kraków, 19 września 2019
+date: Kraków, 4 listopada 2019
 lang: pl-PL
 ...
 
@@ -10,17 +10,17 @@ Wybór Zarządu oraz Komisji Rewizyjnej dokonywany jest podczas Walnego Zebrania
 
 Statut Koła określa członków z czynnym i biernym prawem wyborczym, poza następującymi przypadkami:
 
-a) członek ze stażem mniejszym niż pół roku nie posiada czynnego prawa wyborczego do Zarządu Koła. To prawo może być przyznane człownkowi za rekomendacją przynajmniej trojga członków z takim prawem.
+a) członek ze stażem mniejszym niż pół roku nie posiada biernego prawa wyborczego do Zarządu Koła. To prawo może być przyznane człownkowi za rekomendacją przynajmniej trojga członków z takim prawem.
 
-b) członek ze stażem mniejszym niż rok nie posiada czynnego prawa wyborczego do Komisji Rewizyjnej.
+b) członek ze stażem mniejszym niż rok nie posiada biernego prawa wyborczego do Komisji Rewizyjnej.
 
-c) członek ustępującej Komisji Rewizyjnej nie posiada czynnego prawa wyborczego do Zarządu Koła.
+c) członek ustępującej Komisji Rewizyjnej nie posiada biernego prawa wyborczego do Zarządu Koła.
 
 Głosowanie jest tajne i odbywa się pod nadzorem Komisji Skrutacyjnej składającej się trojga członków Koła, którzy nie posiadają czynnego ani biernego prawa wyborczego. Wyboru Komisji Skrutacyjnej dokonuje Walne Zebranie głosowaniem większościowym jawnym pod nadzorem prowadzącego Zebranie.
 
 # Nominacje
 
-Wyróżnia się siedem stanowisk pod nominację: Prezes, Wiceprezes, Skarbnik, Sekretarz, Bibliotekarz, Wolny Członek, Komisja Rewizyjna. Wszystkie z wyjątkiem ostatniego składają się na Zarząd. Na każde stanowisko może kandydować dowolna liczba członków, każdy członek może kandydować na nie więcej niż trzy stanowiska z następującymi wyjątkami:
+Wyróżnia się siedem stanowisk pod nominację: Prezes, Wiceprezes, Skarbnik, Bibliotekarz, Wolny Członek, Komisja Rewizyjna. Wszystkie z wyjątkiem ostatniego składają się na Zarząd. Na każde stanowisko może kandydować dowolna liczba członków, każdy członek może kandydować na nie więcej niż trzy stanowiska z następującymi wyjątkami:
 
 a) każdy członek kandydujący do Zarządu automatycznie kandyduje również na Wolnego Członka.
 
@@ -28,7 +28,7 @@ b) stanowisko Wolnego Członka nie jest wliczane do limitu trzech stanowisk.
 
 c) członek kandydujący do Komisji Rewizyjnej nie może kandydować do Zarządu.
 
-W okresie na tydzień przed Walnym Zebraniem do dwunastu godzin przed pierwszym terminem Walnego Zebrania każdy członek Koła z czynnym prawem wyborczym może zgłosić swoją kandydaturę na wybrane stanowiska do urzędującego Zarządu lub Komisji Rewizyjnej. Oba organy mają obowiązek zanotować takie zgłoszenie.
+W okresie na tydzień przed Walnym Zebraniem do dwunastu godzin przed pierwszym terminem Walnego Zebrania każdy członek Koła z biernym prawem wyborczym może zgłosić swoją kandydaturę na wybrane stanowiska do urzędującego Zarządu lub Komisji Rewizyjnej. Oba organy mają obowiązek zanotować takie zgłoszenie.
 
 # Głosowanie
 
@@ -40,15 +40,15 @@ Głosowanie na stanowisko Prezesa odbywa się metodą Pojedynczego Głosu Przeka
 
 ## Wybór Zarządu
 
-Głosowanie na każde pozostałe stanowisko w Zarządzie odbywa się metodą Pojedynczego Głosu Przekazywanego z trzema wakatami. Spośród kandydatów wyłonionych w tym głosowaniu, nominowany Prezes koła ustanawia po jednym kandydacie na stanowiska Wiceprezesa, Skarbnika, Sekretarza oraz Bibliotekarza. Spośród kandydatów wyłonionych na stanowisko Wolnego Członka oraz kandydatów wyłonionych na pozostałe stanowiska w Zarządzie ale nie wybranych na to stanowisko Prezes ustanawia co najwyżej dwoje kandydatów na stanowiska Wolnego Członka.
+Głosowanie na każde pozostałe stanowisko w Zarządzie odbywa się metodą Pojedynczego Głosu Przekazywanego z trzema wakatami. Spośród kandydatów wyłonionych w tym głosowaniu, nominowany Prezes koła ustanawia po jednym kandydacie na stanowiska Wiceprezesa, Skarbnika, oraz Bibliotekarza. Spośród kandydatów wyłonionych na stanowisko Wolnego Członka oraz kandydatów wyłonionych na pozostałe stanowiska w Zarządzie ale nie wybranych na to stanowisko Prezes ustanawia co najwyżej troje kandydatów na stanowiska Wolnego Członka.
 
 ## Wybór Komisji Rewizyjnej
 
-Głosowanie na stanowiska w Komisji Rewizyjnej odbywa się metodą Pojedynczego Głosu Przekazywanego z trzema wakatami. Kandydaci wyłonienie w tym głosowaniu są ustanawiani na stanowiska Komisji Rewizyjnej.
+Głosowanie na stanowiska w Komisji Rewizyjnej odbywa się metodą Pojedynczego Głosu Przekazywanego z dwoma wakatami. Kandydaci wyłonienie w tym głosowaniu są ustanawiani na stanowiska Komisji Rewizyjnej.
 
 # Postanowienia Końcowe
 
-W przypadku, gdy niniejsza procedura nie wyłoni co najmniej pięcioosobowego Zarządu i trzyosobowej Komisji Rewizyjnej, Walne Zebranie powinno podjąć uchwałę w sprawie konsekwencji tego faktu. W kwestiach spornych decyzję podejmuje Walne Zebranie.
+W przypadku, gdy niniejsza procedura nie wyłoni co najmniej czteroosobowego Zarządu i dwuosobowej Komisji Rewizyjnej, Walne Zebranie powinno podjąć uchwałę w sprawie konsekwencji tego faktu. W kwestiach spornych decyzję podejmuje Walne Zebranie.
 
 W uzasadnionych przypadkach (o tym czy przypadek jest uzasadniony decyduje ustępująca Komisja Rewizyjna), Walne Zebranie może zdecydować o zrobieniu wyjątku od każdego z powyższych postanowień za zgodą swoją oraz przynajmniej połowy członków zwyczajnych Koła obecnych na Walnym Zebraniu.
 
@@ -64,7 +64,7 @@ Karta wyborcy musi pozwalać na jasne wskazanie pierwszej preferencji wyborcy, j
 
 Wyborca powinien uporządkować kandydatów w kolejności swojej preferencji. Nazwiska kandydatów przedstawione są w kolejności alfabetycznej, wyborca numeruje kandydatów kolejnymi liczbami naturalnymi (począwszy od jedynki) do momentu obojętności wobec kolejności pozostałych kandydatów.
 
-opcjonalnie Wyborca musi mieć również możliwość oznaczenia kandydata znakiem X, co powoduje odrzucenie tego kandydata z danej karty wyborcy. Jeśli więcej niż połowa wyborców odrzuci danego kandydata ze swojej karty, ten kandydat nie może otrzymać wakatu, jest on pomijany przy przekazywaniu głosów.
+_opcjonalnie_ Wyborca musi mieć również możliwość oznaczenia kandydata znakiem X, co powoduje odrzucenie tego kandydata z danej karty wyborcy. Jeśli więcej niż połowa wyborców odrzuci danego kandydata ze swojej karty, ten kandydat nie może otrzymać wakatu, jest on pomijany przy przekazywaniu głosów.
 
 ### Nominacje
 
@@ -88,7 +88,7 @@ Nadmiar Głosów = Otrzymane Głosy - Kwota Wyborcza
 
 ### Faza Pierwsza
 
-W pierwszej fazie skrutacji karty wyborców zostają policzone. Następnie odrzuca się głosy nieważne i ustala liczbę ważnych głosów. Ostatecznie oblicza się kwotę wyborczą dla ustalonej wcześniej liczby wakatów. Kwota powinna być ustalona do dwóch miejsc po przecinku, jeśli w wyniku nie otrzymano liczby całkowitej, należy wziąć moduł z kwoty i dodać do niej 0,01. Następnie należy posortować karty wyborców wedle ich pierwszych preferencji oraz policzyć głosy oddane na każdego kandydata.
+W pierwszej fazie skrutacji karty wyborców zostają policzone. Następnie odrzuca się głosy nieważne i ustala liczbę ważnych głosów. Ostatecznie oblicza się kwotę wyborczą dla ustalonej wcześniej liczby wakatów. Kwota powinna być ustalona do dwóch miejsc po przecinku, jeśli w wyniku nie otrzymano liczby całkowitej, należy wziąć cechę z kwoty i dodać do niej 0,01. Następnie należy posortować karty wyborców wedle ich pierwszych preferencji oraz policzyć głosy oddane na każdego kandydata.
 
 Rozważając kandydatów w malejącej kolejności wartości ich głosów, należy przyznać kolejne wakaty kandydatom, których wartość głosów jest nie mniejsza niż jedna z poniższych wartości:
 
