@@ -18,10 +18,22 @@
 
 ## Budowanie plików pdf
 
-1. Zainstaluj Gentoo (lub inną dystrybucję Linuxa).
+### Linux
 
-2. Zainstaluj pandoc.
+1. Zainstaluj `pandoc`.
 
-3. Zainstaluj texlive.
+2. Zainstaluj `texlive`.
 
-4. Uruchom polecenie `make pdf`.
+3. Uruchom w katalogu z `Makefile` polecenie `make pdf`.
+
+### Windows
+
+1. Zainstaluj `pandoc`.
+
+2. Zainstaluj `MiKTeX`.
+
+3. Zainstaluj `Git`.
+
+4. Otwórz katalog z `Makefile` w `Git Bash`.
+
+4. Uruchom polecenie `mingw32-make pdf`.
