@@ -63,9 +63,7 @@ classoption: contract
 
     c) śmierci,
 
-    d) nieopłacenia składki członkowskiej,
-
-    e) wykluczenia z Koła decyzją Walnego Zebrania.
+    d) wykluczenia z Koła decyzją Walnego Zebrania.
 
 6. Członkowie Koła mają prawo do:
 
@@ -77,13 +75,6 @@ classoption: contract
 
 7. Członek zwyczajny ma prawo głosu na Walnym Zebraniu oraz czynne i bierne prawo wyborcze do Zarządu Koła oraz Komisji Rewizyjnej.
 
-8. Członek honorowy ma prawo głosu w sprawach:
-
-    a) nadania członkostwa honorowego,
-
-    b) zmiany Statutu,
-
-    c) rozwiązania Koła.
 
 # Składki członkowskie
 
@@ -127,13 +118,11 @@ classoption: contract
 
 2. Zarząd stanowi organ administracyjny i wykonawczy Koła.
 
-3. Na czele Zarządu stoi prezes Koła; odpowiada on za całość prac Zarządu. W zarządzie wyróżniamy dodatkowo funkcje: wiceprezesa, sekretarza, skarbnika i bibliotekarza. Funkcje mogą pełnić jedynie członkowie Zarządu, wybrani przez Walne Zebranie.
+3. Na czele Zarządu stoi prezes Koła; odpowiada on za całość prac Zarządu. Dodatkowo w skład zarządu wchodzą: wiceprezes, sekretarz, skarbnik i bibliotekarz oraz wolni członkowie. Funkcje mogą pełnić jedynie członkowie Zarządu wybrani przez Walne Zebranie.
 
-4. Prezes za akceptacją Zarządu może poszerzyć jego skład, tak jednak, by liczba członków Zarządu nie przekroczyła dziewięciu.
+4. Zarząd pełni swe obowiązki do czasu powołania nowego Zarządu lub do .
 
-5. Zarząd pełni swe obowiązki do czasu powołania nowego Zarządu.
-
-6. Ustępujący zarząd przedkłada Walnemu Zebraniu sprawozdanie ze swojej działalności; winno być ono udostępnione co najmniej 5 dni (nie licząc dni wolnych) przed terminem  Zwyczajnego Walnego Zebrania.
+5. Ustępujący zarząd przedkłada Walnemu Zebraniu sprawozdanie ze swojej działalności; winno być ono udostępnione co najmniej 5 dni (nie licząc dni wolnych) przed terminem  Zwyczajnego Walnego Zebrania.
 
 # Komisja Rewizyjna
 
