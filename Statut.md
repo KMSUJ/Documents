@@ -1,6 +1,6 @@
 ---
 title: Statut Koła Matematyków Studentów Uniwersytetu Jagiellońskiego im.\ prof.\ Stanisława Zaremby
-date: Kraków, 8 listopada 2018
+date: Kraków, 5 listopada 2019
 lang: pl-PL
 classoption: contract
 ...
