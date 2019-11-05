@@ -116,7 +116,7 @@ classoption: contract
 
 1. Zarząd ma obowiązek zwołać Nadzwyczajne Walne Zebranie na wniosek Komisji Rewizyjnej lub co najmniej 1/4 członków zwyczajnych. Walne Zebranie należy ogłosić najpóźniej 5 dni (nie licząc dni wolnych) od daty otrzymania wniosku. Jeżeli Zarząd nie ogłosi Walnego Zebrania w terminie, mogą to zrobić wnioskujący.
 
-2. Zarząd stanowi organ administracyjny i wykonawczy Koła.
+2. Zarząd stanowi organ administracyjny i wykonawczy Koła. Składa się z członków zwyczajnych Koła.
 
 3. Na czele Zarządu stoi prezes Koła; odpowiada on za całość prac Zarządu. Dodatkowo w skład zarządu wchodzą: wiceprezes, sekretarz, skarbnik i bibliotekarz oraz wolni członkowie. Funkcje mogą pełnić jedynie członkowie Zarządu wybrani przez Walne Zebranie.
 
@@ -126,7 +126,7 @@ classoption: contract
 
 # Komisja Rewizyjna
 
-1. Komisja Rewizyjna stanowi organ kontroli wewnętrznej Koła. Składa się z trzech członków. Mają oni prawo obecności na zebraniach Zarządu i wglądu w dokumenty Koła.
+1. Komisja Rewizyjna stanowi organ kontroli wewnętrznej Koła. Składa się z trzech członków zwyczajnych Koła. Mają oni prawo obecności na zebraniach Zarządu i wglądu w dokumenty Koła.
 
 2. Komisja Rewizyjna przedkłada Opiekunowi Koła i udostępnia w lokalu Koła kwartalne sprawozdania z działalności Koła. Przedkłada również roczne sprawozdanie zwyczajnemu Walnemu Zebraniu wraz z wnioskiem w sprawie udzielenia absolutorium członkom ustępującego Zarządu.
 
