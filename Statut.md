@@ -1,6 +1,6 @@
 ---
 title: Statut Koła Matematyków Studentów Uniwersytetu Jagiellońskiego im.\ prof.\ Stanisława Zaremby
-date: Kraków, 5 listopada 2019
+date: Kraków, 7 listopada 2019
 lang: pl-PL
 classoption: contract
 ...
@@ -118,11 +118,13 @@ classoption: contract
 
 2. Zarząd stanowi organ administracyjny i wykonawczy Koła. Składa się z członków zwyczajnych Koła.
 
-3. Na czele Zarządu stoi prezes Koła; odpowiada on za całość prac Zarządu. Dodatkowo w skład zarządu wchodzą: wiceprezes, sekretarz, skarbnik i bibliotekarz oraz wolni członkowie. Funkcje mogą pełnić jedynie członkowie Zarządu wybrani przez Walne Zebranie.
+3. Na czele Zarządu stoi prezes Koła; odpowiada on za całość prac Zarządu. Dodatkowo w skład zarządu wchodzą: wiceprezes, sekretarz, skarbnik i bibliotekarz oraz wolni członkowie.
 
 4. Zarząd pełni swe obowiązki do czasu powołania nowego Zarządu.
 
 5. Ustępujący zarząd przedkłada Walnemu Zebraniu sprawozdanie ze swojej działalności; winno być ono udostępnione co najmniej 5 dni (nie licząc dni wolnych) przed terminem  Zwyczajnego Walnego Zebrania.
+
+6. Członek ze stażem mniejszym niż pół roku nie posiada biernego prawa wyborczego do Zarządu Koła. To prawo może być przyznane członkowi za rekomendacją przynajmniej trojga członków z takim prawem.
 
 # Komisja Rewizyjna
 
@@ -131,6 +133,8 @@ classoption: contract
 2. Komisja Rewizyjna przedkłada Opiekunowi Koła i udostępnia w lokalu Koła kwartalne sprawozdania z działalności Koła. Przedkłada również roczne sprawozdanie zwyczajnemu Walnemu Zebraniu wraz z wnioskiem w sprawie udzielenia absolutorium członkom ustępującego Zarządu.
 
 3. Komisja Rewizyjna pełni swe obowiązki do czasu powołania nowej Komisji Rewizyjnej.
+
+4. Członek ze stażem mniejszym niż rok nie posiada biernego prawa wyborczego do Komisji Rewizyjnej.
 
 # Majątek Koła
 

@@ -1,6 +1,6 @@
 ---
 title: Ordynacja Wyborcza do Władz Koła Matematyków Studentów Uniwersytetu Jagiellońskiego im.\ prof.\ Stanisława Zaremby
-date: Kraków, 4 listopada 2019
+date: Kraków, 7 listopada 2019
 lang: pl-PL
 ...
 
@@ -8,15 +8,7 @@ lang: pl-PL
 
 Wybór Zarządu oraz Komisji Rewizyjnej dokonywany jest podczas Walnego Zebrania Koła Matematyków Studentów Uniwersytetu Jagiellońskiego im. Prof. Stanisława Zaremby, dalej zwanego Kołem.
 
-Statut Koła określa członków z czynnym i biernym prawem wyborczym, poza następującymi przypadkami:
-
-+ członek ze stażem mniejszym niż pół roku nie posiada biernego prawa wyborczego do Zarządu Koła. To prawo może być przyznane członkowi za rekomendacją przynajmniej trojga członków z takim prawem.
-
-+ członek ze stażem mniejszym niż rok nie posiada biernego prawa wyborczego do Komisji Rewizyjnej.
-
-+ członek ustępującej Komisji Rewizyjnej nie posiada biernego prawa wyborczego do Zarządu Koła.
-
-Głosowanie jest tajne i odbywa się pod nadzorem Komisji Skrutacyjnej składającej się trojga członków Koła, którzy nie posiadają czynnego ani biernego prawa wyborczego. W wypadku braku takich członków, komisja może zostać wybrana spośród pozostałych członków. Wyboru Komisji Skrutacyjnej dokonuje Walne Zebranie głosowaniem większościowym jawnym pod nadzorem prowadzącego Zebranie.
+Głosowanie jest tajne i odbywa się pod nadzorem Komisji Skrutacyjnej składającej się z trzech osób, które nie posiadają czynnego ani biernego prawa wyborczego. W wypadku braku takich osób, komisja może zostać wybrana spośród członków. Wyboru Komisji Skrutacyjnej dokonuje Walne Zebranie głosowaniem większościowym jawnym pod nadzorem prowadzącego Zebranie.
 
 # Nominacje
 
@@ -28,7 +20,11 @@ Wyróżnia się siedem stanowisk pod nominację: Prezes, Wiceprezes, Sekretarz, 
 
 + członek kandydujący do Komisji Rewizyjnej nie może kandydować do Zarządu.
 
-W okresie na tydzień przed Walnym Zebraniem do dwunastu godzin przed pierwszym terminem Walnego Zebrania każdy członek Koła z biernym prawem wyborczym może zgłosić swoją kandydaturę na wybrane stanowiska do urzędującego Zarządu lub Komisji Rewizyjnej. Oba organy mają obowiązek zanotować takie zgłoszenie. Pełna lista kandydatów powinna zostać opublikowana przynajmniej na osiem godzin przed rozpoczęciem Walnego Zebrania.
+W okresie na tydzień przed Walnym Zebraniem do 48 godzin przed pierwszym terminem Walnego Zebrania każdy członek Koła z biernym prawem wyborczym może zgłosić swoją kandydaturę na wybrane stanowiska do urzędującego Zarządu lub Komisji Rewizyjnej. Oba organy mają obowiązek zanotować takie zgłoszenie. Pełna lista kandydatów powinna zostać opublikowana przynajmniej na 24 godziny przed rozpoczęciem Walnego Zebrania.
+
+# Weryfikacja kodu programu skrutacyjnego
+
+TBD
 
 # Głosowanie
 
