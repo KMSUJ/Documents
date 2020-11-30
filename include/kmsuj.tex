@@ -52,8 +52,11 @@
 
 \addtokomafont{disposition}{\rmfamily}
 
+\usepackage{enumitem}
+
 \makeatletter
 \@ifclasswith{scrartcl}{contract}{\renewcommand\thesection{\S~\arabic{section}}}{}
+\@ifclasswith{scrartcl}{smallcontract}{\renewcommand\theenumi{\S~\arabic{enumi}}}{}
 \makeatother
 
 \usepackage[colorinlistoftodos,prependcaption,textsize=tiny]{todonotes}
