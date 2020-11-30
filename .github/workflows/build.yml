@@ -1,0 +1,34 @@
+name: Build
+  
+on:
+  push:
+    branches:
+      - master
+
+  workflow_dispatch:
+
+jobs:
+  build:
+
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Install prerequisites
+        run: |
+          sudo apt-get update
+          sudo apt-get install \
+            pandoc \
+            texlive-latex-extra \
+            texlive-lang-polish \
+            texlive-font-utils
+
+      - uses: actions/checkout@v2
+
+      - name: Build PDF files
+        run: make pdf
+
+      - name: Archive artifacts
+        uses: actions/upload-artifact@v2
+        with:
+          name: pdfs
+          path: ./*.pdf
