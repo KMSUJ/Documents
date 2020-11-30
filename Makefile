@@ -8,7 +8,7 @@ all:
 pdf: $(DOCS:.md=.pdf)
 docx: $(DOCS:.md=.docx)
 
-%.pdf: %.md
+%.pdf %.tex: %.md
 	pandoc \
 		-o $@ \
 		--variable documentclass=scrartcl \
