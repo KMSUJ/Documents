@@ -23,20 +23,19 @@ jobs:
           echo "::set-output name=release_tag::v${date//[^0-9]/.}"
 
       - uses: actions/checkout@v2
-        
-      - name: Test with environment variables
-        run: echo $TAG_NAME - $RELEASE_NAME
-        env:
-          TAG_NAME: ${{ steps.constants.outputs.release_tag }}
-          RELEASE_NAME: ${{ steps.constants.outputs.release_name }}
-          
-#       - name: Create a Release
-#         uses: actions/create-release@v1.1.4
-#         env:
-#           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-#         with:
-#           tag_name: ${{ steps.constants.outputs.release_tag }}
-#           release_name: ${{ steps.constants.outputs.release_name }}
+      
+      - name: Install prerequisites
+        run: |
+          sudo apt-get update
+          sudo apt-get install \
+            pandoc \
+            texlive-latex-extra \
+            texlive-lang-polish \
+            texlive-font-utils
+      - uses: actions/checkout@v2
+
+      - name: Build PDF files
+        run: make pdf
           
       - name: Create Release
         uses: actions/github-script@v2
@@ -61,8 +60,7 @@ jobs:
             console.log('created release', { release });
 
             for (let file of await fs.readdir('.')) {
-              if (file.match(/Makefile/)) {
-                // do whatever filtering you want here, I'm just uploading all the files
+              if (file.match(/.pdf$/)) {
                 console.log('uploading', file);
 
                 await github.repos.uploadReleaseAsset({
