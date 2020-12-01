@@ -16,8 +16,11 @@ jobs:
       - name: Setup build constants
         id: constants
         run: |
-          echo "::set-output name=release_name::$(date +'%Y-%m-%d %H:%M')"
-          echo "::set-output name=release_tag::$(date +'v%Y.%m.%d.%H.%M')"
+          export TZ=Europe/Warsaw
+          date=$(date +'%Y-%m-%d %H:%M')
+          
+          echo "::set-output name=release_name::$date"
+          echo "::set-output name=release_tag::${date//[^0-9]/.}"
 
       - uses: actions/checkout@v2
         
