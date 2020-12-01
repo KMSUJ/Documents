@@ -30,10 +30,45 @@ jobs:
           TAG_NAME: ${{ steps.constants.outputs.release_tag }}
           RELEASE_NAME: ${{ steps.constants.outputs.release_name }}
           
-      - name: Create a Release
-        uses: actions/create-release@v1.1.4
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+#       - name: Create a Release
+#         uses: actions/create-release@v1.1.4
+#         env:
+#           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+#         with:
+#           tag_name: ${{ steps.constants.outputs.release_tag }}
+#           release_name: ${{ steps.constants.outputs.release_name }}
+          
+      - name: Create Release
+        uses: actions/github-script@v2
         with:
-          tag_name: ${{ steps.constants.outputs.release_tag }}
-          release_name: ${{ steps.constants.outputs.release_name }}
+          github-token: ${{secrets.GITHUB_TOKEN}}
+          script: |
+            console.log('environment', process.versions);
+
+            const fs = require('fs').promises;
+
+            const { repo: { owner, repo }, sha } = context;
+            console.log({ owner, repo, sha });
+
+            const release = await github.repos.createRelease({
+              owner, repo,
+              tag_name: "${{ steps.constants.outputs.release_tag }}",
+              release_name: "${{ steps.constants.outputs.release_name }}"
+              draft: true,
+              target_commitish: sha
+            });
+
+            console.log('created release', { release });
+
+            for (let file of await fs.readdir('.')) {
+              if (file.match(/\.pdf$/) {
+                console.log('uploading', file);
+
+                await github.repos.uploadReleaseAsset({
+                  owner, repo,
+                  release_id: release.data.id,
+                  name: file,
+                  data: await fs.readFile(`./${file}`)
+                });
+              }
+            }
