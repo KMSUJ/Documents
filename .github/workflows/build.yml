@@ -52,7 +52,7 @@ jobs:
 
             const release = await github.repos.createRelease({
               owner, repo,
-              tag_name: process.env.GITHUB_REF,
+              tag_name: steps.constants.outputs.release_tag,
               draft: false,
               target_commitish: sha
             });
