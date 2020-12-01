@@ -52,8 +52,7 @@ jobs:
 
             const release = await github.repos.createRelease({
               owner, repo,
-              tag_name: "${{ steps.constants.outputs.release_tag }}",
-              release_name: "${{ steps.constants.outputs.release_name }}",
+              tag_name: process.env.GITHUB_REF,
               draft: true,
               target_commitish: sha
             });
@@ -61,14 +60,13 @@ jobs:
             console.log('created release', { release });
 
             for (let file of await fs.readdir('.')) {
-              if (file.match(/\.pdf$/) {
-                console.log('uploading', file);
+              // do whatever filtering you want here, I'm just uploading all the files
+              console.log('uploading', file);
 
-                await github.repos.uploadReleaseAsset({
-                  owner, repo,
-                  release_id: release.data.id,
-                  name: file,
-                  data: await fs.readFile(`./${file}`)
-                });
-              }
+              await github.repos.uploadReleaseAsset({
+                owner, repo,
+                release_id: release.data.id,
+                name: file,
+                data: await fs.readFile(`./${file}`)
+              });            
             }
