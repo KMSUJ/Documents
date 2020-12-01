@@ -23,4 +23,4 @@ jobs:
         run: echo $TAG_NAME - $RELEASE_NAME
         env:
           TAG_NAME: nightly-tag-${{ steps.date.outputs.date }}
-          RELEASE_NAME: nightly-release-${{ date }}
+          RELEASE_NAME: nightly-release-$date
