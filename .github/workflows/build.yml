@@ -53,7 +53,7 @@ jobs:
             const release = await github.repos.createRelease({
               owner, repo,
               tag_name: "${{ steps.constants.outputs.release_tag }}",
-              release_name: "${{ steps.constants.outputs.release_name }}"
+              release_name: "${{ steps.constants.outputs.release_name }}",
               draft: true,
               target_commitish: sha
             });
