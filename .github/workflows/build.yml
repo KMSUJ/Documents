@@ -16,8 +16,8 @@ jobs:
       - name: Setup build constants
         id: constants
         run: |
-          echo "::set-output release_name=$(date +'%Y-%m-%d %H:%M')"
-          echo "::set-output release_tag=$(date +'v%Y.%m.%d.%H.%M')"
+          echo "::set-output name=release_name::$(date +'%Y-%m-%d %H:%M')"
+          echo "::set-output name=release_tag::$(date +'v%Y.%m.%d.%H.%M')"
 
       - uses: actions/checkout@v2
         
