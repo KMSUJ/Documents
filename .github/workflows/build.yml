@@ -3,7 +3,7 @@ name: Build
 on:
   push:
     branches:
-      - master
+      - auto2
 
   workflow_dispatch:
 
