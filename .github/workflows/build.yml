@@ -20,7 +20,7 @@ jobs:
           date=$(date +'%Y-%m-%d %H:%M')
           
           echo "::set-output name=release_name::$date"
-          echo "::set-output name=release_tag::${date//[^0-9]/.}"
+          echo "::set-output name=release_tag::v${date//[^0-9]/.}"
 
       - uses: actions/checkout@v2
         
@@ -29,3 +29,9 @@ jobs:
         env:
           TAG_NAME: ${{ steps.constants.outputs.release_tag }}
           RELEASE_NAME: ${{ steps.constants.outputs.release_name }}
+          
+      - name: Create a Release
+        uses: actions/create-release@v1.1.4
+        with:
+          tag_name: ${{ steps.constants.outputs.release_tag }}
+          release_name: ${{ steps.constants.outputs.release_name }}
