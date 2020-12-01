@@ -1,5 +1,5 @@
 name: Build
-  
+
 on:
   push:
     branches:
@@ -13,6 +13,17 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
+      - name: Setup build constants
+        id: constants
+        run: |
+          export TZ=Europe/Warsaw
+          date=$(date +'%Y-%m-%d %H:%M')
+
+          echo "::set-output name=release_name::$date"
+          echo "::set-output name=release_tag::v${date//[^0-9]/.}"
+
+      - uses: actions/checkout@v2
+
       - name: Install prerequisites
         run: |
           sudo apt-get update
@@ -21,14 +32,45 @@ jobs:
             texlive-latex-extra \
             texlive-lang-polish \
             texlive-font-utils
-
       - uses: actions/checkout@v2
 
       - name: Build PDF files
         run: make pdf
 
-      - name: Archive artifacts
-        uses: actions/upload-artifact@v2
+      - name: Create Release
+        uses: actions/github-script@v2
         with:
-          name: pdfs
-          path: ./*.pdf
+          github-token: ${{secrets.GITHUB_TOKEN}}
+          script: |
+            console.log('environment', process.versions);
+
+            const fs = require('fs').promises;
+
+            const { repo: { owner, repo }, sha } = context;
+            console.log({ owner, repo, sha });
+
+            const release = await github.repos.createRelease({
+              owner, repo,
+              tag_name: process.env.RELEASE_TAG,
+              name: process.env.RELEASE_NAME,
+              draft: false,
+              target_commitish: sha
+            });
+
+            console.log('created release', { release });
+
+            for (let file of await fs.readdir('.')) {
+              if (file.match(/.pdf$/)) {
+                console.log('uploading', file);
+
+                await github.repos.uploadReleaseAsset({
+                  owner, repo,
+                  release_id: release.data.id,
+                  name: file,
+                  data: await fs.readFile(`./${file}`)
+                });
+              }
+            }
+        env:
+          RELEASE_TAG: ${{ steps.constants.outputs.release_tag }}
+          RELEASE_NAME: ${{ steps.constants.outputs.release_name }}
