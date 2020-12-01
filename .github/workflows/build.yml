@@ -60,13 +60,15 @@ jobs:
             console.log('created release', { release });
 
             for (let file of await fs.readdir('.')) {
-              // do whatever filtering you want here, I'm just uploading all the files
-              console.log('uploading', file);
+              if (file.match(/Makefile/)) {
+                // do whatever filtering you want here, I'm just uploading all the files
+                console.log('uploading', file);
 
-              await github.repos.uploadReleaseAsset({
-                owner, repo,
-                release_id: release.data.id,
-                name: file,
-                data: await fs.readFile(`./${file}`)
-              });            
+                await github.repos.uploadReleaseAsset({
+                  owner, repo,
+                  release_id: release.data.id,
+                  name: file,
+                  data: await fs.readFile(`./${file}`)
+                });
+              }
             }
