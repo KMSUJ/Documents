@@ -13,4 +13,4 @@ Zgodnie z\ punktem 1 rozdziału Składki członkowskie Statutu zarządza się co
 
 #. Członkowi będącemu w\ trudnej sytuacji materialnej Zarząd może udzielić zniżki w\ wysokości 6 PLN na semestr.
 
-#. Członek, który nie opłaci składki członkowskiej za semestr w\ którym odbywa się Walne Zebra nie przed rozpoczęciem tego zebrania jest wykluczany z\ Koła w\ związku z\ literą d\ punktu 5 rozdziału Członkowie Koła Statutu.
+#. Członek, który nie opłaci składki członkowskiej za semestr w\ którym odbywa się Walne Zebranie przed rozpoczęciem tego zebrania jest wykluczany z\ Koła w\ związku z\ literą d\ punktu 5 rozdziału Członkowie Koła Statutu.
