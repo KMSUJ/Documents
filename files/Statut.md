@@ -1,5 +1,9 @@
 ---
-title: Statut Koła Matematyków Studentów Uniwersytetu Jagiellońskiego im.\ prof.\ Stanisława Zaremby
+title: |
+    Statut  
+    Koła Matematyków Studentów  
+    Uniwersytetu Jagiellońskiego  
+    im.\ prof.\ Stanisława Zaremby
 date: Kraków, 7 listopada 2019
 lang: pl-PL
 classoption: contract
@@ -122,7 +126,7 @@ classoption: contract
 
 4. Zarząd pełni swe obowiązki do czasu powołania nowego Zarządu.
 
-5. Ustępujący zarząd przedkłada Walnemu Zebraniu sprawozdanie ze swojej działalności; winno być ono udostępnione co najmniej 5 dni (nie licząc dni wolnych) przed terminem  Zwyczajnego Walnego Zebrania.
+5. Ustępujący zarząd przedkłada Walnemu Zebraniu sprawozdanie ze swojej działalności; winno być ono udostępnione co najmniej 5 dni (nie licząc dni wolnych) przed terminem Zwyczajnego Walnego Zebrania.
 
 6. Członek ze stażem mniejszym niż pół roku nie posiada biernego prawa wyborczego do Zarządu Koła. To prawo może być przyznane członkowi za rekomendacją przynajmniej trojga członków z\ takim prawem.
 
