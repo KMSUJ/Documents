@@ -1,5 +1,5 @@
-MD=$(wildcard files/*.md)
-TEX=$(wildcard files/*.tex)
+MD=$(shell find files -name '*.md')
+TEX=$(shell find files -name '*.tex')
 
 all:
 	@echo "Supported commands:"
@@ -29,7 +29,7 @@ docx: $(MD:.md=.docx)
 		$<
 	python3 include/polskie_cudzyslowy.py source.tex
 	pdflatex -jobname $(basename $@) source.tex
-	$(RM) source.tex files/*aux files/*log
+	$(RM) source.tex $(basename $@).aux $(basename $@).log
 
 %.tex: %.md
 	pandoc \
@@ -48,8 +48,8 @@ docx: $(MD:.md=.docx)
 	python3 include/polskie_cudzyslowy.py $@
 
 %.pdf: %.tex
-	pdflatex -jobname $@ $<
-	$(RM) files/*aux files/*log
+	pdflatex -jobname $(basename $@) $<
+	$(RM) $(basename $@).aux $(basename $@).log
 
 %.docx: %.md
 	pandoc \
@@ -58,6 +58,4 @@ docx: $(MD:.md=.docx)
 		$<
 
 clean:
-	$(RM) files/*.pdf
-	$(RM) files/*.docx
-	$(RM) files/*.tex
+	$(RM) $(MD:.md=.pdf) $(MD:.md=.docx) $(MD:.md=.tex)
